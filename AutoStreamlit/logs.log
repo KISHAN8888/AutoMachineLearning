@@ -1,0 +1,26 @@
+2023-06-23 14:02:47,114:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-06-23 14:02:47,114:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-06-23 14:02:47,114:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-06-23 14:02:47,114:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-06-23 14:02:52,967:INFO:Soft dependency imported: prophet: 1.1.4
+2023-06-23 14:03:13,584:INFO:Initializing load_model()
+2023-06-23 14:03:13,597:INFO:load_model(model_name=best_model_test, platform=None, authentication=None, verbose=True)
+2023-06-27 23:09:07,787:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-06-27 23:09:07,787:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-06-27 23:09:07,787:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-06-27 23:09:07,787:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-06-27 23:09:08,445:INFO:Soft dependency imported: prophet: 1.1.4
+2023-06-27 23:09:11,731:INFO:Initializing load_model()
+2023-06-27 23:09:11,731:INFO:load_model(model_name=best_model_test, platform=None, authentication=None, verbose=True)
+2023-06-27 23:17:57,124:INFO:Initializing load_model()
+2023-06-27 23:17:57,124:INFO:load_model(model_name=best_model_test, platform=None, authentication=None, verbose=True)
+2023-06-27 23:18:06,409:INFO:Initializing load_model()
+2023-06-27 23:18:06,409:INFO:load_model(model_name=best_model, platform=None, authentication=None, verbose=True)
